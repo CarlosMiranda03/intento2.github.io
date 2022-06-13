@@ -1,0 +1,58 @@
+#Yo
+img
+{
+    width: 10%;
+    height: 10%;
+    float: left;
+}
+h1
+{
+    color: rgb(0, 145, 255);
+    font-family:Arial, Helvetica, sans-serif;
+    width: 70%;
+    font-size: 3vw;
+}
+h2
+{
+    color: rgb(0, 0, 0);
+    font-family:Arial, Helvetica, sans-serif;
+    width: 50%;
+    font-size: 2vw;
+}
+p
+{
+    color: rgb(0, 0, 0);
+    font-family:Arial, Helvetica, sans-serif;
+    width: 50%;
+    font-size: 2vw;
+}
+#navegador 
+ul
+{
+    list-style-type: none;
+    text-align: center;
+}
+ #navegador 
+ li
+{
+    display: inline;
+    text-align: center;
+    margin: 0 2vw 0 0;
+    font-family:Arial, Helvetica, sans-serif
+}
+ #navegador 
+ li a 
+{
+    padding: 10px 2% 10px 2%;
+    color:#15151E   ;
+    background-color: rgb(0, 145, 255);
+    border: 1px solid #15151E;
+    text-decoration: none;
+    font-size: 2vw;
+}
+ #navegador 
+ li a:hover
+{
+    background-color:#15151E;
+    color: #ffffff;
+}

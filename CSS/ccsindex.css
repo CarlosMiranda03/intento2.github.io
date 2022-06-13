@@ -1,0 +1,159 @@
+header
+{
+    background: #ff0000;
+    text-align: center;
+    overflow: hidden;
+    position: relative;
+}
+
+body
+{
+    margin: 0;
+    background:#ffffff;
+}
+#logof1
+img
+{
+    width: 15%;
+    height: 15%;
+    float: left;
+}
+#Titulof1
+img
+{
+    width: 20%;
+    height: 15%;  
+}
+#navegador 
+ul
+{
+    list-style-type: none;
+    text-align: center;
+}
+ #navegador 
+ li
+{
+    display: inline;
+    text-align: center;
+    margin: 0 2vw 0 0;
+    font-family:Arial, Helvetica, sans-serif
+}
+ #navegador 
+ li a 
+{
+    padding: 10px 2% 10px 2%;
+    color:#15151E   ;
+    background-color: #ff0000;
+    border: 1px solid #15151E;
+    text-decoration: none;
+    font-size: 2vw;
+}
+ #navegador 
+ li a:hover
+{
+    background-color:#15151E;
+    color: #ffffff;
+}
+#tabla
+table, th, td
+{
+    border: 0.2vw solid rgb(255, 0, 0);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 2.5vw;
+    width: 50%;
+    color: rgb(0, 0, 0);
+    background-color: #ffffff;
+}
+table td 
+{
+    text-align: center;
+}
+
+#pilotos
+img
+{
+    width: 50%;
+    height: 50%;
+}
+h2
+{
+    color: red;
+    font-family:Arial, Helvetica, sans-serif;
+    width: 50%;
+    font-size: 2vw;
+}
+h3
+{
+    color: rgb(0, 0, 0);
+    font-family:Arial, Helvetica, sans-serif;
+    width: 70%;
+    font-size: 2vw;
+}
+
+a:link, a:visited, a:active 
+{
+    text-decoration:none;
+}
+#imgartic
+img
+{
+    width: 50%;
+    height: 50%;
+    margin: left;
+    display: block;
+
+}
+time
+{
+    color: rgb(125, 125, 125);
+    font-size: 1vw;
+    font-family:Arial, Helvetica, sans-serif
+}
+footer
+{
+    background:#15151E;
+    overflow:auto;
+}
+#rs 
+ul
+{
+    list-style-type: none;
+    text-align: center;
+}
+ #rs 
+ li
+{
+    display: inline;
+    text-align: center;
+    margin: 0 1vw 0 0;
+    font-family:Arial, Helvetica, sans-serif
+    
+}
+ #rs
+ li img
+{
+    padding: 20px 20px 20px 20px;
+    color:#15151E   ;
+    border: 1px solid #15151E;
+    width: 2%;
+    height: 2%;
+}
+ #rs
+ li img:hover
+{
+    background-color:rgb(255, 0, 0);
+    color: #ffffff;
+}
+p
+{
+    color: rgb(0, 0, 0);
+    font-family:Calibri;
+    width: 60%;
+    font-size: 1.5vw;
+}
+#Piotpage
+img
+{
+    width: 100%;
+    height: 100%;
+}
